@@ -12,13 +12,13 @@ The app utilizes Flask and the [facenet-pytorch](https://github.com/timesler/fac
 
 1. Clone the repository
 2. Install the requirements
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+  ```
 3. Run the app
-    ```bash
-    flask --debug run
-    ```
+```bash
+flask --debug run
+ ```
 
 ## Example requests
 Every request should contain an api key in the headers. 
