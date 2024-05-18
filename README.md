@@ -68,4 +68,4 @@ Expected successful result: Status code - 200
   "cosine_similarity": 0.9
 }
 ```
-It should return the cosine similarity between the image and the embedding vector.
+It should return the cosine similarity between the embedding vector taken off the image and the image and the embedding vector parameter.
